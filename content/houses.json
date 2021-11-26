@@ -1,0 +1,173 @@
+[
+ {
+   "id": 1,
+   "house_name": "Baratheon of King's Landing",
+   "region_id": 1,
+   "region": "Crownlands",
+   "description": "House Baratheon of Storm's End is one of the Great Houses of Westeros, and is the principal house in the stormlands, which they rule as Lords Paramount of the Stormlands. Their seat, Storm's End, is an ancient castle raised by the Storm Kings from the now-extinct House Durrandon. The Baratheon sigil is a crowned black stag on a field of gold.",
+   "image": "Baratheon.png",
+   "slug": 1
+ },
+ {
+   "id": 2,
+   "house_name": "Greyjoy of Pyke",
+   "region_id": 2,
+   "region": "Iron Islands",
+   "description": "House Greyjoy of Pyke is one of the Great Houses of Westeros. It rules over the Iron Islands, a harsh and bleak collection of islands off the west coast of Westeros, from the castle at Pyke. The head of the house is the Lord Reaper of Pyke.",
+   "image": "Greyjoy of Pyke.png",
+   "slug": 2
+ },
+ {
+   "id": 3,
+   "house_name": "Lannister of Casterly Rock",
+   "region_id": 3,
+   "region": "Westerlands",
+   "description": "House Lannister of Casterly Rock is one of the Great Houses of Westeros, one of its richest and most powerful families and one of its oldest dynasties. It was also the royal House of the Seven Kingdoms following the extinction of House Baratheon of King's Landing, which had been their puppet House during the War of the Five Kings, for a brief stint of time until House Targaryen took back the Iron Throne in Daenerys Targaryen's war for Westeros.",
+   "image": "Lannister.png",
+   "slug": 3
+ },
+ {
+   "id": 4,
+   "house_name": "Stark of Winterfell",
+   "region_id": 4,
+   "region": "North",
+   "description": "House Stark of Winterfell is a Great House of Westeros and the royal house of the Kingdom of the North. They rule over the vast region known as the North from their seat in Winterfell. It is one of the oldest lines of Westerosi nobility by far, claiming a line of descent stretching back over eight thousand years. Before the Targaryen conquest, as well as during the War of the Five Kings and early on in Daenerys Targaryen's war for Westeros, the leaders of House Stark ruled over the region as the Kings in the North.",
+   "image": "Stark.png",
+   "slug": 4
+ },
+ {
+   "id": 5,
+   "house_name": "Tyrell of Highgarden",
+   "region_id": 5,
+   "region": "Reach",
+   "description": "House Tyrell of Highgarden is one of the Great Houses of the Seven Kingdoms, being Lords Paramount of the Mander and the liege lords of the Reach. A large, wealthy house, its wealth is only surpassed among the Great Houses by House Lannister, and the Tyrells can field the greatest armies. Additionally, if they call the ships of the Redwyne fleet, the lords of the Shield Islands, and the coastal lords, they can command a navy that equals if not surpasses the royal fleet of King's Landing.",
+   "image": "Tyrell.png",
+   "slug": 5
+ },
+ {
+   "id": 6,
+   "house_name": "Weaver",
+   "region_id": 6,
+   "region": "Iron Islands",
+   "description": "La Casa Weaver es una casa noble de las Islas del Hierro y vasalla de la Casa Greyjoy. Es una casa menor relativamente nueva y de poco prestigio. ",
+   "image": "Weaver.png",
+   "slug": 6
+ },
+ {
+   "id": 7,
+   "house_name": "Webber of Coldmoat",
+   "region_id": 7,
+   "region": "Reach",
+   "description": "La Casa Weaver es una casa noble de las Islas del Hierro y vasalla de la Casa Greyjoy. Es una casa menor relativamente nueva y de poco prestigio. ",
+   "image": "Weaver.png",
+   "slug": 7
+ },
+ {
+   "id": 8,
+   "house_name": "Wells",
+   "region_id": 8,
+   "region": "Dorne",
+   "description": "House Wells is a noble house from the north. According to semi-canon sources they blazon their arms with per fess: five black roundels on grey over green and white lozengy.[1] There is another House Wells in Dorne.",
+   "image": "Wells.png",
+   "slug": 8
+ },
+ {
+   "id": 9,
+   "house_name": "Wells",
+   "region_id": 9,
+   "region": "North",
+   "description": "House Wells is a noble house from the north. According to semi-canon sources they blazon their arms with per fess: five black roundels on grey over green and white lozengy.[1] There is another House Wells in Dorne.",
+   "image": "Wells.png",
+   "slug": 9
+ },
+ {
+   "id": 10,
+   "house_name": "Wendwater",
+   "region_id": 10,
+   "region": "Crownlands",
+   "description": "The Wendwater is a river that flows from the northeast of the Stormlands through the Kingswood and the Crownlands to empty into the south of Blackwater Bay.[",
+   "image": "Weaver.png",
+   "slug": 10
+ },
+ {
+   "id": 11,
+   "house_name": "Wensington",
+   "region_id": 11,
+   "region": "Stormlands",
+   "description": "The Wensington is a river that flows from the northeast of the Stormlands through the Kingswood and the Crownlands to empty into the south of Blackwater Bay.[",
+   "image": "Weaver.png",
+   "slug": 11
+ },
+ {
+   "id": 12,
+   "house_name": "Westbrook",
+   "region_id": 12,
+   "region": "Reach",
+   "description": "La Casa Westbrook es una casa noble del Dominio y vasalla de la Casa Tyrell. De acuerdo a fuentes semi canónicas su emblema son dos divisas de sinople en campo de oro. ",
+   "image": "Westbrook.png",
+   "slug": 12
+ },
+ {
+   "id": 13,
+   "house_name": "Westerling of the Crag",
+   "region_id": 13,
+   "region": "Westerlands",
+   "description": "is the stronghold ruled by House Westerling, a vassal of the Lannisters. The castle is run-down and partially ruined, as the Westerlings have fallen on hard times and can no longer maintain it. The castle is located north-east of Casterly Rock, overlooking the Sunset Sea on the west coast of Westeros.",
+   "image": "Wells.png",
+   "slug": 13
+ },
+ {
+   "id": 14,
+   "house_name": "Whitfield",
+   "region_id": 14,
+   "region": "Unknown",
+   "description": "is the stronghold ruled by House Westerling, a vassal of the Lannisters. The castle is run-down and partially ruined, as the Westerlings have fallen on hard times and can no longer maintain it. The castle is located north-east of Casterly Rock, overlooking the Sunset Sea on the west coast of Westeros.",
+   "image": "Wells.png",
+   "slug": 14
+ },
+ {
+   "id": 15,
+   "house_name": "Woodhull",
+   "region_id": 15,
+   "region": "Vale of Arryn",
+   "description": "is the stronghold ruled by House Westerling, a vassal of the Lannisters. The castle is run-down and partially ruined, as the Westerlings have fallen on hard times and can no longer maintain it. The castle is located north-east of Casterly Rock, overlooking the Sunset Sea on the west coast of Westeros.",
+   "image": "Wells.png",
+   "slug": 15
+ },
+ {
+   "id": 16,
+   "house_name": "Wydman",
+   "region_id": 16,
+   "region": "Vale of Arryn",
+   "description": "House Wydman is a noble house from the Vale of Arryn. It blazons its arms with 5 splintered lances, 3-2, striped blue and white with blue pennons, on yellow, beneath a white chief bearing a red castle, a green viper, a black broken wheel, a purple unicorn and a yellow lion. Its words are \"Right Conquers Might.\"",
+   "image": "Wydman.png",
+   "slug": 16
+ },
+ {
+   "id": 17,
+   "house_name": "Wyl of the Boneway",
+   "region_id": 17,
+   "region": "Dorne",
+   "description": "The Wyls have long fought against the lords of the Dornish Marches to the north. The family has tunneled beneath their castle, Wyl, to link caverns for greater defense.",
+   "image": "Wyl of the Boneway.png",
+   "slug": 17
+ },
+ {
+   "id": 18,
+   "house_name": "Westford",
+   "region_id": 18,
+   "region": "Westerlands",
+   "description": "House Westford is a minor house of landed knights from the westerlands. They have thus far only been mentioned in the video game Game of Thrones.",
+   "image": "Westford.png",
+   "slug": 18
+ },
+ {
+   "id": 19,
+   "house_name": "Targatyen",
+   "region_id": 19,
+   "region": "Valyria",
+   "description": "House Targaryen of Dragonstone is a noble family of Valyrian descent who once ruled the Seven Kingdoms of Westeros. The Targaryen sigil is a three-headed dragon breathing flames, red on black.[1][2][3] The house words are \"Fire and Blood\".[4] It eventually became the first royal house of the Seven Kingdoms, as House Targaryen of King's Landing.",
+   "image": "Targaryen.png",
+   "slug": 19
+ }
+]

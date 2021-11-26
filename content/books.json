@@ -1,0 +1,51 @@
+[
+ {
+   "id": 1,
+   "book_name": "Juego de tronos",
+   "description": "uego de tronos es una novela de fantasía escrita por el autor estadounidense George R. R. Martin en 1996 y ganadora del premio Locus a la mejor novela de fantasía en 1997. Se trata de la primera entrega de la serie de gran popularidad Canción de hielo y fuego.",
+   "img": "b1.jpg",
+   "slug": 1
+ },
+ {
+   "id": 2,
+   "book_name": "Choque de reyes",
+   "description": "Choque de reyes es el segundo libro de la saga de fantasía épica Canción de hielo y fuego del escritor George R. R. Martin. La obra original fue publicada en noviembre de 1998 en Reino Unido y la traducción al español llegó en abril de 2003.",
+   "img": "b2.jpg",
+   "slug": 2
+ },
+ {
+   "id": 3,
+   "book_name": "Tormenta de espadas",
+   "description": "Tormenta de espadas es el tercer libro de la saga de literatura fantástica Canción de hielo y fuego y su autor es George R. R. Martin. El original en inglés se publicó en agosto del 2000 en el Reino Unido, en noviembre del mismo año en Estados Unidos y en junio de 2005 en España.",
+   "img": "b3.jpg",
+   "slug": 3
+ },
+ {
+   "id": 4,
+   "book_name": "Festín de cuervos",
+   "description": "Festín de cuervos es el cuarto libro de la saga de literatura fantástica Canción de hielo y fuego escrito por George R. R. Martin. La obra se publicó en octubre de 2005; por su parte, la versión en español se puso a la venta el 21 de diciembre de 2007, editada por la editorial Gigamesh.",
+   "img": "b4.jpg",
+   "slug": 4
+ },
+ {
+   "id": 5,
+   "book_name": "Danza de dragones",
+   "description": "Danza de dragones es la quinta de la serie de siete novelas previstas en la serie de fantasía épica Canción de hielo y fuego del autor estadounidense George R. R. Martin. Tras varios años de retraso su publicación finalmente fue el 12 de julio de 2011 en inglés​​​ y el 22 de junio de 2012 en castellano.​",
+   "img": "b5.jpg",
+   "slug": 5
+ },
+ {
+   "id": 6,
+   "book_name": "Vientos de Invierno",
+   "description": "The Winds of Winter es la sexta novela planeada de la épica serie de fantasía Canción de hielo y fuego del escritor estadounidense George R. R. Martin. Martin cree que los dos últimos volúmenes de la serie totalizarán más de 3.000 páginas manuscritas.",
+   "img": "b6.jpg",
+   "slug": 6
+ },
+ {
+   "id": 7,
+   "book_name": "Sueño de primavera",
+   "description": "Sueño de primavera es el título provisional de la séptima entrega de la serie de siete novelas previstas en la serie de fantasía épica Canción de hielo y fuego, del autor estadounidense George R. R. Martin. El libro será la continuación de Vientos de invierno y será la novela final de la serie. ",
+   "img": "b7.jpg",
+   "slug": 7
+ }
+]
