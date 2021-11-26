@@ -1,0 +1,4 @@
+Link del sitio publicado
+https://proyecto-arquitectura02eduardfelipe.netlify.app/
+
+Para la entidad books no se incluyeron 20 registros ya que solo existen 7 libros
