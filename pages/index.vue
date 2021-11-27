@@ -26,6 +26,10 @@
     <div for="" class="row"><NuxtLink class="button" style="width: 200px;" to="/regions_index">Regions</NuxtLink></div>
     <div for="" class="row"><NuxtLink class="button" style="width: 200px;" to="/battles_index">Battles</NuxtLink></div>            
   </div>
-   <FooterView />
+  <Utteranc/>
+  <div class="row">
+    <FooterView />
+  </div>
+   
  </div>
 </template>
